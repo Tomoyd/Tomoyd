@@ -4,4 +4,4 @@
 
 目前已放弃blog的方式，所有的学习记录都会用notion进行记录
 不过我会把一些深入的学习放到blog的issue中
-- [前端系列专题](https://github.com/Tomoyd/blog/issues) issue
+- [前端系列专题issue](https://github.com/Tomoyd/blog/issues) 
