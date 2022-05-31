@@ -5,4 +5,4 @@
 个人喜欢将学习记录写到notion上
 
 不过我会把一些深入的学习放到blog的issue中
-- [前端系列专题issue](https://github.com/Tomoyd/blog/issues) 
+- [个人博客](https://tomoyd.notion.site/Tomo-s-Blog-2906488b50164f3b926af517724f102c) 
